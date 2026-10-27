@@ -1,5 +1,9 @@
 # Ping
 
+<p align="center">
+  <img src=".github/logo.png" alt="ping logo" width="128" />
+</p>
+
 A small VB.NET Windows Forms ping tool.
 
 ## What it does
